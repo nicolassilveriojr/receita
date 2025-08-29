@@ -5,22 +5,20 @@
 
 
 
-.ingredientes{
+.Ingredientes{
 text-align: center;
 
 
 }
 
-.preparo{
+.Preparo{
 
 
 
 }
 
 
-.img{
-width: 500px;
-height: 350px;
-
-
+.imagens{
+  width: 500px;
+  border: 2px solid #000;
 }
