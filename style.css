@@ -1,24 +1,42 @@
-.body{
-    background-color: blue;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  line-height: 2.0;
+  background-color: #242424;
+  padding: 20px;
+}
+
+.texto {
+  flex: 1;
+  padding-right: 20px;
+  padding-left: 2em;
+  align-self: center;
+}
+
+.texto2{
+  flex: 1;
+  align-self: center; 
 }
 
 
-
-
-.Ingredientes{
-text-align: center;
-
-
+.imagem {
+  flex: 1;
+  text-align: center;
+  align-self: center;
 }
 
-.Preparo{
-
-
-
+.imagem img {
+  max-width: 1100px;
+  height: 750px;
+  border-radius: 8px;
 }
 
-
-.imagens{
-  width: 500px;
-  border: 2px solid #000;
+.secao {
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0 0 70px rgb(184, 209, 255);
+  border-radius: 9px;
+  display: flex;
+  background-color: #4b6875;
+  padding: 10px;
 }
