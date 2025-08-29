@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: white;
   line-height: 2.0;
-  background-color: #242424;
+  background-color: #d4ffe8;
   padding: 20px;
 }
 
@@ -32,9 +32,8 @@ body {
 .secao {
   max-width: 700px;
   margin: 0 auto;
-  box-shadow: 0 0 70px rgb(184, 209, 255);
   border-radius: 9px;
   display: flex;
-  background-color: #4b6875;
+  background-color: #b1ffcf;
   padding: 10px;
 }
