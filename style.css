@@ -29,6 +29,7 @@ body {
   padding-left: 30px;
   /* height: 200px; */
   border-radius: 0px;
+  align-self: auto;
 }
 
 .secao {
