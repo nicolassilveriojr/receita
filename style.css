@@ -29,7 +29,10 @@ body {
   padding-left: 30px;
   height: 200px;
   border-radius: 0px;
-  align-self: auto;
+
+
+    flex: 1; /* Ocupa o espaço restante */
+    text-align: center; /* Centraliza a imagem horizontalmente */
 }
 
 .secao {
@@ -40,4 +43,7 @@ body {
   justify-content: center;
   background-color: #F5F1E9;
   padding: 10px;
+
+    flex: 1; /* Ocupa o espaço restante */
+    text-align: center; /* Centraliza a imagem horizontalmente */
 }
