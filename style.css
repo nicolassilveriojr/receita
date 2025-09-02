@@ -1,10 +1,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: white;
-  line-height: 2.0;
-  background-color: #000000ff;
+  line-height: 1.6; 
+  background-color: #000000;
   padding: 20px;
-}
+  margin: 0;
 
 .texto {
   padding-right: 1px;
