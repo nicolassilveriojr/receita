@@ -24,7 +24,7 @@ body {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-.imagem img {
+.imagem-img {
   max-width: 100px;
   height: 200px;
   border-radius: 0px;
