@@ -27,7 +27,7 @@ body {
 .imagem img {
   max-width: 100px;
   height: 200px;
-  border-radius: 8px;
+  border-radius: 0px;
 }
 
 .secao {
