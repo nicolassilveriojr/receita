@@ -24,8 +24,8 @@ body {
 }
 
 .imagem img {
-  max-width: 600px;
-  height: 500px;
+  max-width: 100px;
+  height: 200px;
   border-radius: 8px;
 }
 
