@@ -3,7 +3,6 @@ body {
   color: #4E423A;
   line-height: 1.6;
   background-color: #E6E2D8;
-  justify-content: center;
   padding: 20px;
   margin: 20;
 }
@@ -32,10 +31,11 @@ body {
 }
 
 .secao {
-  max-width: 1500px;
+  max-width: 1200px;
   margin: 0 auto;
   border-radius: 0px;
   display: flex;
+  justify-content: center;
   background-color: #F5F1E9;
   padding: 10px;
 }
