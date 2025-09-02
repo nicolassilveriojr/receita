@@ -26,13 +26,17 @@ body {
 
 .imagem-img {
   max-width: 50%;
+  width: 550px;
+  height: 315px;
   padding-left: 30px;
   height: 200px;
   border-radius: 0px;
 
 
-    flex: 1; /* Ocupa o espaço restante */
-    text-align: center; /* Centraliza a imagem horizontalmente */
+  flex: 1;
+  /* Ocupa o espaço restante */
+  text-align: center;
+  /* Centraliza a imagem horizontalmente */
 }
 
 .secao {
@@ -44,6 +48,8 @@ body {
   background-color: #F5F1E9;
   padding: 10px;
 
-    flex: 1; /* Ocupa o espaço restante */
-    text-align: center; /* Centraliza a imagem horizontalmente */
+  flex: 1;
+  /* Ocupa o espaço restante */
+  text-align: center;
+  /* Centraliza a imagem horizontalmente */
 }
