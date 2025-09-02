@@ -27,7 +27,7 @@ body {
 .imagem-img {
   max-width: 50%;
   padding-left: 30px;
-  /* height: 200px; */
+  height: 200px;
   border-radius: 0px;
   align-self: auto;
 }
